@@ -4,4 +4,7 @@
 
 ## Study topics:
 
-- The ```process``` keyword. 
+- The ```process``` keyword.
+- The 6 different types of server: file server, database server, web server, mail server, application server, and proxy server. 
+- Enter the Node REPL and tinker with it.
+- Run a program from the terminal using ```node myProgram.js```.
